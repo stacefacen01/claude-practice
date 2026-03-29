@@ -1,4 +1,4 @@
-# Claude Code Practice
+# Claude Code Practice Short Cake
 
 A sandbox for learning and experimenting with Claude Code tricks and features.
 
